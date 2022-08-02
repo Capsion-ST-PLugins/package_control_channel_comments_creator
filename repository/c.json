@@ -3922,6 +3922,19 @@
 			]
 		},
 		{
+			"name": "CPS Comments Creater",
+			"details": "https://github.com/Capsion-ST-PLugins/Comments-Creator",
+			"author": ["CPS", "Capsion"],
+			"labels": ["python", "javascript", "typescripts"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": ["windows"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "CQ Clientlibs Syntax Highlight",
 			"details": "https://github.com/diestrin/cq-clienltib-sublime-language",
 			"labels": ["cq", "clientlib"],
